@@ -4,6 +4,9 @@
 # 사이트 접속 QR 코드 및 단축 URL
 
 
+https://gw1.kr/kanggohuman
+
+
 
 # 출석 QR 코드
 
