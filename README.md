@@ -4,7 +4,8 @@
 # 사이트 접속 QR 코드 및 단축 URL
 
 # 출석 QR 코드
-https://i.ibb.co/x8gPnbb2/QR.jpg
+
+<img src="[이미지 소스](https://i.ibb.co/x8gPnbb2/QR.jpg)">
 
 # 안녕하세요 강원고등학교 찾아가는 학교 컨설팅 인문교과 
 #1) 정형 데이터의 분석 
