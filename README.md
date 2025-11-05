@@ -6,6 +6,7 @@
 # 출석 QR 코드
 
 <img src="/출석 QR.jpg">
+https://dxcheck.kr/e5ca0e27-7a72-42f0-a8b8-242699293c54
 
 # 안녕하세요 강원고등학교 찾아가는 학교 컨설팅 인문교과 
 #1) 정형 데이터의 분석 
@@ -20,3 +21,10 @@
 * 간단한 Python 기반 프로그램을 통해 애니메이션 시각화의 활용 사례와 활용 방법을 논의해보겠습니다!
 * 정형 데이터 시각화 예시(데이터 다람쥐) : https://www.youtube.com/@DataSquirrel
 * 정형 데이터 시각화 간단 파이선 툴 : https://colab.research.google.com/drive/1hBd9r1xlvCL_BNjJ5aU3sF9GxZ5vMX-b#scrollTo=6PIS2dCapXEC
+
+
+# 종료 QR 코드 (+만족도 조사 코드)
+<img src="/만족도 QR.png">
+https://walla.my/v/jyx6wWGegBf2aaw4Yc24
+<img src="/종료 QR.png">
+https://dxcheck.kr/e5ca0e27-7a72-42f0-a8b8-242699293c54
